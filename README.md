@@ -1,4 +1,5 @@
-# myvue
+# Schedule
+Schedule is a mini todo app built with Vue
 
 ## Project setup
 ```
